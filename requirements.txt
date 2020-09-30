@@ -1,3 +1,5 @@
+REQUIRMENTS 
+
 Django==1.4.2
 Mezzanine==1.2.4
 Pillow==1.7.8
